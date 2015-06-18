@@ -1,0 +1,7 @@
+# Site settings
+title: Common length units
+description: Lengths project
+baseurl: "/lengths"
+
+# Build settings
+markdown: kramdown
